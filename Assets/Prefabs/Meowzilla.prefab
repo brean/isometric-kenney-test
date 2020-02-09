@@ -115,8 +115,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a8c04d47088e198a38d279197dbc0d59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pixelToCoords: 1024
-  sprite: {fileID: 21300000, guid: 2f90858bb89403cba891a4a36fbe7af0, type: 3}
+  color: {r: 1, g: 0.015686274, b: 0.82895774, a: 1}
 --- !u!58 &3175316580153110998
 CircleCollider2D:
   m_ObjectHideFlags: 0
