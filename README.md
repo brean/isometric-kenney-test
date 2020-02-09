@@ -3,8 +3,8 @@ A simple test scene for experiments showing some how Sorting Groups and Z-Positi
 
 Some other notes on working with tilemaps:
 
-- make sure all GameObjects are scalled to 1 1 1, if you like to change the Scale change it at the Sprite > Pixel per Unit value (better: scale the image in some other software).
-- make sure the Pivit-Point is at the bottom of your Character and placed correctly on your Tilemaps.
+- make sure all GameObjects are scalled to 1:1:1, if you like to change the Scale change it at the "Sprite" > "Pixel per Unit" value in the Inspector (better: scale the image directly).
+- make sure the pivit point is at the bottom of your Character.
 
 ## Multi level with big character problem (the Meowzilla-problem)
 See the Unity forum for details: https://forum.unity.com/threads/is-is-possible-to-groupe-tiles-over-different-tilemaps-as-one.824850/
