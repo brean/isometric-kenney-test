@@ -7,6 +7,8 @@ Some other notes on working with tilemaps:
 - make sure the Pivit-Point is at the bottom of your Character and placed correctly on your Tilemaps.
 
 ## Multi level with big character problem (the Meowzilla-problem)
+See the Unity forum for details: https://forum.unity.com/threads/is-is-possible-to-groupe-tiles-over-different-tilemaps-as-one.824850/
+
 As far as I know it is not possible to group multiple tiles on different layers in a tilemap or different tilemaps. This makes it impossible to use tile maps for a Game with a playable character that is bigger than one level of a building.
 
 See Screenshots:
